@@ -189,3 +189,68 @@ input {
     padding-bottom: 10px;
 
 }
+.porfoliobody {
+    padding: 20px;
+    margin-top: 40px;
+    border: 1px solid #cccccc;
+    width: 650px;
+    height: 850px;
+    float: left;
+    margin-bottom: 40px;
+
+}
+
+.portfoliophoto {
+    width: 225px;
+    height: 175px;
+}
+
+.labels {
+    box-sizing: border-box;
+	background: #4aaaa5;
+	color: white;
+	height: 45px;
+	padding-top: 15px;
+	width: 100%;
+	text-align: center;
+    font-size: 15px;
+    position: relative;
+    top: -75px;
+}
+.portfolio1 {
+    width: 225px;
+    z-index: 10;
+    float: left;
+
+}
+
+.portfolio2 {
+    width: 225px;
+    z-index: 10;
+    float: left;
+    margin-left: 95px;
+}
+
+.portfolio3 {
+    width: 225px;
+    z-index: 10;
+    float: left;
+}
+.portfolio4 {
+    width: 225px;
+    z-index: 10;
+    float: left;
+    margin-left: 95px;
+
+}
+.portfolio5 {
+    width: 225px;
+    z-index: 10;
+}
+
+.portfolioHeader {
+    clear: both;
+    border-bottom: 3px solid #cccccc;
+ 
+    
+}
