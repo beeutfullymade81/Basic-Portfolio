@@ -1,0 +1,191 @@
+*{
+    box-sizing: border-box;
+    border-color: #cccccc;
+    background: white;
+
+}
+html, body {
+    height: 100%;
+    width: 960px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background: url('../images/spiration.png')
+}
+
+img.mainphoto {
+    width: 350px;
+    height: 350px;
+    float: left;
+    padding: 5px;
+
+}
+
+button {
+	background: #4aaaa5;
+	border: 0px;
+	height: 45px;
+	width: 120px;
+	color: white;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 17px;
+    margin-top: 5px;
+}
+
+h1 {
+    color: white;
+    background: #4aaaa5;
+    border-color: #cccccc;
+    width: 30%;
+    text-align: center;
+    height: 100px;
+    padding: 30px;
+    z-index: 70;
+    bottom: -70px;
+    position: relative;
+    font-family: 'Georgia', Times', Times New Roman, serif;
+}
+
+nav {
+	padding-top: 40px;
+    float: right;
+    width: 100%;
+    text-align: right;
+    height: 100px;
+    float: right;
+    padding-right: 30px;
+    border-bottom: 3px solid #cccccc;
+    position: relative;
+    top: -50px;
+    border-top: 1px solid #cccccc;
+    text-decoration: none;
+    font-size: 25px;
+
+}
+footer {
+    clear: both;
+    background: #666666;
+    color: white;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 10px;
+    margin-top: 90px;
+    height: 90px;
+    border-top: 10px solid #4aaaa5;
+    position: relative;
+
+
+}
+
+p {
+    color: #777777;
+    float: right;
+}
+
+.maincontent {
+    padding: 20px;
+    margin-top: 40px;
+    border: 1px solid #cccccc;
+    width: 650px;
+    height: 500px;
+    float: left;
+    margin-bottom: 40px;
+    
+}
+.contactme {
+    padding: 20px;
+    margin-top: 40px;
+    border: 1px solid #cccccc;
+    width: 650px;
+    height: 500px;
+    float: left;
+    margin-bottom: 40px;
+}
+
+.contactheader {
+    clear: both;
+    border-bottom: 3px solid #cccccc;
+    
+}
+
+h2,h3 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times', Times New Roman, serif;
+}
+
+img.github {
+    width: 50px;
+    height: 50px;
+
+}
+
+img.linkedin {
+    width: 50px;
+    height: 50px;
+}
+
+img.stack {
+    width: 50px;
+    height: 50px;
+
+}
+
+.namedform {
+    margin-top: 10px;
+	margin-bottom: 15px;
+}
+.emailedform {
+    margin-top: 10px;
+    margin-bottom: 15px;
+
+}
+}
+.messagedform {
+	width: 100%;
+    margin-top: 15px;
+}
+
+input {
+    width: 75%;
+}
+
+.messaged {
+    height: 205px;
+}
+.about {
+    padding: 5px;
+    margin-right: 10px;
+    color: #777777;
+
+}
+
+.contact {
+    padding: 5px;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: #777777;
+
+}
+
+.portfolio{
+    padding: 5px;
+    margin-left: 10px;
+    color: #777777;
+}
+
+.connectWithMe {
+    margin-top: 40px;
+    border: 1px solid #cccccc;
+    width: 270px;
+    height: 180px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-left: 30px;
+    float: right;
+}
+.connect {
+    clear: both;
+    border-bottom: 3px solid #cccccc;
+    padding-bottom: 10px;
+
+}
